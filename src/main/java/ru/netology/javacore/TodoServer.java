@@ -15,7 +15,7 @@ public class TodoServer {
     }
 
     public void start() throws IOException {
-        System.out.println("Starting server at " + port + "...");
+        // System.out.println("Starting server at " + port + "...");
         //...
     }
 }
